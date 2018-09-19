@@ -12,6 +12,7 @@ To develop interactive map application to track vehicles trainsporting food to d
 
 - R Studio (https://www.rstudio.com/products/rstudio/download/)
 - R Shiny (https://www.r-project.org/nosvn/pandoc/shiny.html)
+- Leaflet
 
 <h3> Methods Used </h3>
 
